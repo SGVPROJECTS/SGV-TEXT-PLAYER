@@ -1,0 +1,2504 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What's the full form of CPU?",
+      "answer": "Central Processing Unit"
+    },
+    {
+      "id": 2,
+      "question": "Which component is considered the \"brain\" of the computer?",
+      "answer": "CPU"
+    },
+    {
+      "id": 3,
+      "question": "What's the primary function of a motherboard?",
+      "answer": "It connects all the computer components together."
+    },
+    {
+      "id": 4,
+      "question": "What does RAM stand for?",
+      "answer": "Random Access Memory"
+    },
+    {
+      "id": 5,
+      "question": "What's the difference between RAM and ROM?",
+      "answer": "RAM is volatile (temporary) memory, while ROM is non-volatile (permanent) memory."
+    },
+    {
+      "id": 6,
+      "question": "What does ROM stand for?",
+      "answer": "Read-Only Memory"
+    },
+    {
+      "id": 7,
+      "question": "What's the main function of a hard disk drive (HDD)?",
+      "answer": "To store data permanently."
+    },
+    {
+      "id": 8,
+      "question": "What is a Solid State Drive (SSD)?",
+      "answer": "A newer type of storage device that uses flash memory."
+    },
+    {
+      "id": 9,
+      "question": "What is a Compact Disc (CD)?",
+      "answer": "An optical storage medium."
+    },
+    {
+      "id": 10,
+      "question": "What's the main difference between hardware and software?",
+      "answer": "Hardware is the physical parts of a computer, while software is the set of instructions that tells the hardware what to do."
+    },
+    {
+      "id": 11,
+      "question": "What is an operating system (OS)?",
+      "answer": "Software that manages all the hardware and software resources of the computer."
+    },
+    {
+      "id": 12,
+      "question": "Name a few popular operating systems.",
+      "answer": "Windows, macOS, Linux, Android, iOS."
+    },
+    {
+      "id": 13,
+      "question": "What is a device driver?",
+      "answer": "Software that allows the OS to communicate with a specific hardware device."
+    },
+    {
+      "id": 14,
+      "question": "What's the BIOS?",
+      "answer": "Basic Input/Output System; firmware that initializes hardware during the boot process."
+    },
+    {
+      "id": 15,
+      "question": "What's a peripheral device?",
+      "answer": "An external device connected to a computer, like a printer or a scanner."
+    },
+    {
+      "id": 16,
+      "question": "Which key is used to copy selected text?",
+      "answer": "Ctrl + C"
+    },
+    {
+      "id": 17,
+      "question": "What's the shortcut to paste copied text?",
+      "answer": "Ctrl + V"
+    },
+    {
+      "id": 18,
+      "question": "Which key combination is used to undo the last action?",
+      "answer": "Ctrl + Z"
+    },
+    {
+      "id": 19,
+      "question": "How do you save a document using a keyboard shortcut?",
+      "answer": "Ctrl + S"
+    },
+    {
+      "id": 20,
+      "question": "What's the shortcut to select all text in a document?",
+      "answer": "Ctrl + A"
+    },
+    {
+      "id": 21,
+      "question": "Which key is used to cut selected text?",
+      "answer": "Ctrl + X"
+    },
+    {
+      "id": 22,
+      "question": "What's the shortcut to print a document?",
+      "answer": "Ctrl + P"
+    },
+    {
+      "id": 23,
+      "question": "What does Ctrl + B do in a word processor?",
+      "answer": "Makes the selected text bold."
+    },
+    {
+      "id": 24,
+      "question": "What does Ctrl + I do?",
+      "answer": "Makes the selected text italic."
+    },
+    {
+      "id": 25,
+      "question": "What's the shortcut to open a new tab in a web browser?",
+      "answer": "Ctrl + T"
+    },
+    {
+      "id": 26,
+      "question": "What does URL stand for?",
+      "answer": "Uniform Resource Locator"
+    },
+    {
+      "id": 27,
+      "question": "What is the primary purpose of a URL?",
+      "answer": "To specify the location of a resource on the internet."
+    },
+    {
+      "id": 28,
+      "question": "What is a web browser?",
+      "answer": "Software that allows you to access and view websites."
+    },
+    {
+      "id": 29,
+      "question": "Name some popular web browsers.",
+      "answer": "Google Chrome, Mozilla Firefox, Microsoft Edge, Safari."
+    },
+    {
+      "id": 30,
+      "question": "What does HTTP stand for?",
+      "answer": "Hypertext Transfer Protocol"
+    },
+    {
+      "id": 31,
+      "question": "What is the role of HTTP?",
+      "answer": "It's a protocol for transmitting data over the World Wide Web."
+    },
+    {
+      "id": 32,
+      "question": "What is HTTPS?",
+      "answer": "The secure version of HTTP, indicated by a padlock icon in the address bar."
+    },
+    {
+      "id": 33,
+      "question": "What's the purpose of an IP address?",
+      "answer": "A unique numerical label assigned to each device on a computer network."
+    },
+    {
+      "id": 34,
+      "question": "What's a domain name?",
+      "answer": "A human-readable address for a website, like 'https://www.google.com/search?q=google.com'."
+    },
+    {
+      "id": 35,
+      "question": "What is a firewall?",
+      "answer": "A security system that monitors and controls incoming and outgoing network traffic."
+    },
+    {
+      "id": 36,
+      "question": "What is Microsoft Office?",
+      "answer": "A suite of productivity software, including Word, Excel, and PowerPoint."
+    },
+    {
+      "id": 37,
+      "question": "What's the primary use of Microsoft Word?",
+      "answer": "For creating text documents."
+    },
+    {
+      "id": 38,
+      "question": "What is Microsoft Excel used for?",
+      "answer": "Creating spreadsheets and performing data analysis."
+    },
+    {
+      "id": 39,
+      "question": "What is Microsoft PowerPoint used for?",
+      "answer": "Creating presentations."
+    },
+    {
+      "id": 40,
+      "question": "What's the main function of Microsoft Outlook?",
+      "answer": "An email and personal information management tool."
+    },
+    {
+      "id": 41,
+      "question": "What is a cell in Microsoft Excel?",
+      "answer": "The intersection of a row and a column."
+    },
+    {
+      "id": 42,
+      "question": "What is the ribbon in Microsoft Office applications?",
+      "answer": "The area above the document that contains tabs and commands."
+    },
+    {
+      "id": 43,
+      "question": "What is a macro?",
+      "answer": "A series of commands and actions that can be run automatically."
+    },
+    {
+      "id": 44,
+      "question": "How do you create a new document in Microsoft Word?",
+      "answer": "Ctrl + N or through the 'File' menu."
+    },
+    {
+      "id": 45,
+      "question": "What is a template in Microsoft Office?",
+      "answer": "A pre-formatted document that serves as a starting point."
+    },
+    {
+      "id": 46,
+      "question": "What is a network?",
+      "answer": "A group of two or more interconnected computers."
+    },
+    {
+      "id": 47,
+      "question": "What's the difference between a LAN and a WAN?",
+      "answer": "A LAN (Local Area Network) covers a small area like a home, while a WAN (Wide Area Network) covers a large geographical area."
+    },
+    {
+      "id": 48,
+      "question": "What does Wi-Fi stand for?",
+      "answer": "Wireless Fidelity"
+    },
+    {
+      "id": 49,
+      "question": "What's an internet service provider (ISP)?",
+      "answer": "A company that provides internet access."
+    },
+    {
+      "id": 50,
+      "question": "What's a router?",
+      "answer": "A device that forwards data packets between computer networks."
+    },
+    {
+      "id": 51,
+      "question": "What does modem stand for?",
+      "answer": "Modulator-Demodulator"
+    },
+    {
+      "id": 52,
+      "question": "What is a search engine?",
+      "answer": "A software system that helps people find information on the internet."
+    },
+    {
+      "id": 53,
+      "question": "Name some popular search engines.",
+      "answer": "Google, Bing, Yahoo."
+    },
+    {
+      "id": 54,
+      "question": "What is a server?",
+      "answer": "A computer program or device that provides functionality for other programs or devices."
+    },
+    {
+      "id": 55,
+      "question": "What is cloud computing?",
+      "answer": "The delivery of computing services over the internet."
+    },
+    {
+      "id": 56,
+      "question": "What does AI stand for?",
+      "answer": "Artificial Intelligence"
+    },
+    {
+      "id": 57,
+      "question": "What is Artificial Intelligence?",
+      "answer": "The simulation of human intelligence processes by machines."
+    },
+    {
+      "id": 58,
+      "question": "What is machine learning?",
+      "answer": "A subfield of AI where systems learn from data without being explicitly programmed."
+    },
+    {
+      "id": 59,
+      "question": "What is natural language processing (NLP)?",
+      "answer": "A field of AI that deals with the interaction between computers and human language."
+    },
+    {
+      "id": 60,
+      "question": "Give an example of an AI application you might use daily.",
+      "answer": "Voice assistants (Siri, Alexa), recommendation systems (Netflix, Amazon)."
+    },
+    {
+      "id": 61,
+      "question": "What is ethical hacking?",
+      "answer": "Hacking into a system with the owner's permission to find vulnerabilities."
+    },
+    {
+      "id": 62,
+      "question": "What's the main difference between an ethical hacker and a malicious hacker?",
+      "answer": "Ethical hackers work to improve security, while malicious hackers seek to exploit vulnerabilities for personal gain."
+    },
+    {
+      "id": 63,
+      "question": "What's a phishing attack?",
+      "answer": "A fraudulent attempt to trick someone into revealing personal information."
+    },
+    {
+      "id": 64,
+      "question": "What is a strong password?",
+      "answer": "A password that is long, complex, and includes a mix of uppercase and lowercase letters, numbers, and symbols."
+    },
+    {
+      "id": 65,
+      "question": "What's a two-factor authentication (2FA)?",
+      "answer": "A security method that requires two different forms of identification to verify a user's identity."
+    },
+    {
+      "id": 66,
+      "question": "What is a VPN?",
+      "answer": "A Virtual Private Network, which encrypts internet traffic and hides your IP address."
+    },
+    {
+      "id": 67,
+      "question": "What's the purpose of an antivirus program?",
+      "answer": "To detect, prevent, and remove malicious software."
+    },
+    {
+      "id": 68,
+      "question": "What's a virus in computer terms?",
+      "answer": "A type of malicious software that can replicate itself and spread to other files."
+    },
+    {
+      "id": 69,
+      "question": "What's Windows Defender?",
+      "answer": "Microsoft's built-in antivirus and anti-malware software for Windows."
+    },
+    {
+      "id": 70,
+      "question": "What is malware?",
+      "answer": "A general term for any malicious software."
+    },
+    {
+      "id": 71,
+      "question": "What's the difference between a virus and a Trojan horse?",
+      "answer": "A virus self-replicates, while a Trojan horse pretends to be a legitimate program to trick users."
+    },
+    {
+      "id": 72,
+      "question": "What's a worm?",
+      "answer": "A type of malware that can self-replicate and spread without any human interaction."
+    },
+    {
+      "id": 73,
+      "question": "What is a cookie?",
+      "answer": "A small piece of data sent from a website and stored on the user's computer."
+    },
+    {
+      "id": 74,
+      "question": "What is privacy protection online?",
+      "answer": "The practice of safeguarding personal information and data from unauthorized access."
+    },
+    {
+      "id": 75,
+      "question": "What's an email client?",
+      "answer": "A program used to manage emails, such as Microsoft Outlook or Mozilla Thunderbird."
+    },
+    {
+      "id": 76,
+      "question": "What's a CC and a BCC in an email?",
+      "answer": "CC (Carbon Copy) sends a copy to recipients who can see each other's addresses. BCC (Blind Carbon Copy) sends a copy to recipients who cannot see each other's addresses."
+    },
+    {
+      "id": 77,
+      "question": "What's the subject line of an email?",
+      "answer": "The brief description of the email's content."
+    },
+    {
+      "id": 78,
+      "question": "What is a signature in an email?",
+      "answer": "A block of text automatically appended to the end of an email."
+    },
+    {
+      "id": 79,
+      "question": "What's the difference between a 'reply' and a 'reply all' in an email?",
+      "answer": "'Reply' sends the email only to the original sender, while 'Reply all' sends it to all recipients."
+    },
+    {
+      "id": 80,
+      "question": "What is an attachment?",
+      "answer": "A file sent along with an email."
+    },
+    {
+      "id": 81,
+      "question": "What's the difference between an email and an instant message?",
+      "answer": "Emails are typically for longer, asynchronous communication, while instant messages are for real-time, synchronous communication."
+    },
+    {
+      "id": 82,
+      "question": "What is a mainframe computer?",
+      "answer": "A large, high-performance computer used for large-scale data processing."
+    },
+    {
+      "id": 83,
+      "question": "What is a supercomputer?",
+      "answer": "The fastest type of computer, used for complex scientific calculations."
+    },
+    {
+      "id": 84,
+      "question": "What is a microcontroller?",
+      "answer": "A small computer on a single integrated circuit, often used in embedded systems."
+    },
+    {
+      "id": 85,
+      "question": "Who is considered the \"father of the computer\"?",
+      "answer": "Charles Babbage"
+    },
+    {
+      "id": 86,
+      "question": "Who developed the first compiler for a computer programming language?",
+      "answer": "Grace Hopper"
+    },
+    {
+      "id": 87,
+      "question": "What was the ENIAC?",
+      "answer": "One of the first electronic general-purpose computers."
+    },
+    {
+      "id": 88,
+      "question": "Who co-founded Apple?",
+      "answer": "Steve Jobs and Steve Wozniak"
+    },
+    {
+      "id": 89,
+      "question": "Who co-founded Microsoft?",
+      "answer": "Bill Gates and Paul Allen"
+    },
+    {
+      "id": 90,
+      "question": "What is a graphical user interface (GUI)?",
+      "answer": "A user interface that allows users to interact with electronic devices through graphical icons and visual indicators."
+    },
+    {
+      "id": 91,
+      "question": "What is a command-line interface (CLI)?",
+      "answer": "A text-based user interface where users type commands."
+    },
+    {
+      "id": 92,
+      "question": "What's a pixel?",
+      "answer": "The smallest unit of a digital image or graphic."
+    },
+    {
+      "id": 93,
+      "question": "What's a webcam?",
+      "answer": "A camera connected to a computer to capture images and video."
+    },
+    {
+      "id": 94,
+      "question": "What is a modem?",
+      "answer": "A device that converts digital signals into analog signals for transmission over telephone lines, and vice versa."
+    },
+    {
+      "id": 95,
+      "question": "What's the purpose of a printer?",
+      "answer": "To produce a physical copy of digital data."
+    },
+    {
+      "id": 96,
+      "question": "What's an optical drive?",
+      "answer": "A device that uses a laser to read or write data from optical discs."
+    },
+    {
+      "id": 97,
+      "question": "What is software piracy?",
+      "answer": "The unauthorized copying or use of software."
+    },
+    {
+      "id": 98,
+      "question": "What is open-source software?",
+      "answer": "Software with source code that is freely available for use and modification."
+    },
+    {
+      "id": 99,
+      "question": "What's a data backup?",
+      "answer": "Making copies of data so that it can be restored in case of data loss."
+    },
+    {
+      "id": 100,
+      "question": "What's the purpose of a keyboard?",
+      "answer": "To input text, characters, and other commands into a computer."
+    },
+    {
+      "id": 101,
+      "question": "Which key is used to create a tab stop?",
+      "answer": "Tab key"
+    },
+    {
+      "id": 102,
+      "question": "Which key is used to capitalize letters?",
+      "answer": "Shift key or Caps Lock"
+    },
+    {
+      "id": 103,
+      "question": "What is the numeric keypad for?",
+      "answer": "To easily enter numbers."
+    },
+    {
+      "id": 104,
+      "question": "What's the function of the Escape (Esc) key?",
+      "answer": "To cancel or stop an action."
+    },
+    {
+      "id": 105,
+      "question": "What is a mouse?",
+      "answer": "A pointing device used to move a cursor on the screen."
+    },
+    {
+      "id": 106,
+      "question": "What's the main function of a monitor?",
+      "answer": "To display visual information."
+    },
+    {
+      "id": 107,
+      "question": "What's a web server?",
+      "answer": "A computer that stores website files and delivers them to a user's browser."
+    },
+    {
+      "id": 108,
+      "question": "What is a cookie?",
+      "answer": "A small piece of data that a website stores on your computer to remember information about you."
+    },
+    {
+      "id": 109,
+      "question": "What is a cache?",
+      "answer": "A temporary storage location for frequently accessed data to speed up retrieval."
+    },
+    {
+      "id": 110,
+      "question": "What's the difference between a static and a dynamic IP address?",
+      "answer": "A static IP is permanent, while a dynamic IP changes over time."
+    },
+    {
+      "id": 111,
+      "question": "What's a computer virus?",
+      "answer": "Malicious software that attaches itself to a program or file."
+    },
+    {
+      "id": 112,
+      "question": "What's a Trojan horse?",
+      "answer": "A type of malware that disguises itself as a legitimate program."
+    },
+    {
+      "id": 113,
+      "question": "What is a firewall?",
+      "answer": "A network security system that blocks unauthorized access."
+    },
+    {
+      "id": 114,
+      "question": "What's the purpose of encryption?",
+      "answer": "To convert data into a code to prevent unauthorized access."
+    },
+    {
+      "id": 115,
+      "question": "What is a virtual machine?",
+      "answer": "A software-based computer that runs on a host computer."
+    },
+    {
+      "id": 116,
+      "question": "What's a computer program?",
+      "answer": "A set of instructions that a computer can execute."
+    },
+    {
+      "id": 117,
+      "question": "What's the difference between software and firmware?",
+      "answer": "Software is typically stored on a hard drive, while firmware is stored on a hardware chip."
+    },
+    {
+      "id": 118,
+      "question": "What is a gigabyte (GB)?",
+      "answer": "A unit of digital information storage equal to one billion bytes."
+    },
+    {
+      "id": 119,
+      "question": "What's a teraflop?",
+      "answer": "A measure of a computer's performance, equal to one trillion floating-point operations per second."
+    },
+    {
+      "id": 120,
+      "question": "What is a bit?",
+      "answer": "The smallest unit of data in a computer, represented by a 0 or a 1."
+    },
+    {
+      "id": 121,
+      "question": "What is a byte?",
+      "answer": "A unit of digital information that typically consists of eight bits."
+    },
+    {
+      "id": 122,
+      "question": "What's the purpose of an expansion card?",
+      "answer": "To add extra functionality to a computer, like a graphics card."
+    },
+    {
+      "id": 123,
+      "question": "What's a graphics processing unit (GPU)?",
+      "answer": "A specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images."
+    },
+    {
+      "id": 124,
+      "question": "What is a heat sink?",
+      "answer": "A passive heat exchanger that cools a device by dissipating heat."
+    },
+    {
+      "id": 125,
+      "question": "What's the difference between DDR3 and DDR4 RAM?",
+      "answer": "DDR4 is faster and more energy-efficient than DDR3."
+    },
+    {
+      "id": 126,
+      "question": "What's a power supply unit (PSU)?",
+      "answer": "A component that converts AC power from the wall outlet into DC power for the computer."
+    },
+    {
+      "id": 127,
+      "question": "What is a web hosting service?",
+      "answer": "A service that provides the technologies and services needed for a website to be viewed on the Internet."
+    },
+    {
+      "id": 128,
+      "question": "What is a database?",
+      "answer": "An organized collection of structured information, or data, typically stored electronically in a computer system."
+    },
+    {
+      "id": 129,
+      "question": "What is a query?",
+      "answer": "A request for information from a database."
+    },
+    {
+      "id": 130,
+      "question": "What's the purpose of data compression?",
+      "answer": "To reduce the amount of data needed to store or transmit a file."
+    },
+    {
+      "id": 131,
+      "question": "What is lossy compression?",
+      "answer": "Compression that removes some data to achieve a smaller file size."
+    },
+    {
+      "id": 132,
+      "question": "What is lossless compression?",
+      "answer": "Compression that reduces file size without losing any data."
+    },
+    {
+      "id": 133,
+      "question": "What is ASCII?",
+      "answer": "American Standard Code for Information Interchange; a character encoding standard."
+    },
+    {
+      "id": 134,
+      "question": "What is Unicode?",
+      "answer": "A universal character encoding standard that includes all the world's writing systems."
+    },
+    {
+      "id": 135,
+      "question": "What is HTML?",
+      "answer": "Hypertext Markup Language; the standard language for creating web pages."
+    },
+    {
+      "id": 136,
+      "question": "What is CSS?",
+      "answer": "Cascading Style Sheets; a style sheet language used for describing the presentation of a document written in a markup language."
+    },
+    {
+      "id": 137,
+      "question": "What is JavaScript?",
+      "answer": "A programming language used to create interactive effects within web browsers."
+    },
+    {
+      "id": 138,
+      "question": "What's a web application?",
+      "answer": "A program that runs in a web browser."
+    },
+    {
+      "id": 139,
+      "question": "What is a client-server model?",
+      "answer": "A distributed application structure that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters, called clients."
+    },
+    {
+      "id": 140,
+      "question": "What is data mining?",
+      "answer": "The process of discovering patterns in large data sets."
+    },
+    {
+      "id": 141,
+      "question": "What is big data?",
+      "answer": "Extremely large data sets that may be analyzed computationally to reveal patterns, trends, and associations."
+    },
+    {
+      "id": 142,
+      "question": "What is the Internet of Things (IoT)?",
+      "answer": "The network of physical objects embedded with sensors, software, and other technologies to connect and exchange data with other devices and systems over the internet."
+    },
+    {
+      "id": 143,
+      "question": "What's a computer worm?",
+      "answer": "A standalone malware computer program that replicates itself to spread to other computers."
+    },
+    {
+      "id": 144,
+      "question": "What's a botnet?",
+      "answer": "A network of private computers infected with malicious software and controlled as a group without the owners' knowledge."
+    },
+    {
+      "id": 145,
+      "question": "What is a denial-of-service (DoS) attack?",
+      "answer": "An attack meant to shut down a machine or network, making it inaccessible to its intended users."
+    },
+    {
+      "id": 146,
+      "question": "What is a ransomware attack?",
+      "answer": "A type of malware that locks a user's files and demands a ransom to restore access."
+    },
+    {
+      "id": 147,
+      "question": "What's the purpose of a computer backup?",
+      "answer": "To create a duplicate of data that can be used to restore the original in case of data loss."
+    },
+    {
+      "id": 148,
+      "question": "What is digital forensics?",
+      "answer": "The process of identifying, preserving, analyzing, and presenting digital evidence."
+    },
+    {
+      "id": 149,
+      "question": "What is a social engineering attack?",
+      "answer": "Using psychological manipulation to trick people into divulging confidential information."
+    },
+    {
+      "id": 150,
+      "question": "What is pharming?",
+      "answer": "A cyber attack that redirects users to a fraudulent website."
+    },
+    {
+      "id": 151,
+      "question": "What's a data breach?",
+      "answer": "A security incident where sensitive, confidential, or protected data is exposed to an unauthorized person."
+    },
+    {
+      "id": 152,
+      "question": "What's the purpose of a password manager?",
+      "answer": "To securely store and manage your passwords."
+    },
+    {
+      "id": 153,
+      "question": "What is digital literacy?",
+      "answer": "The ability to use information and communication technologies to find, evaluate, create, and communicate information."
+    },
+    {
+      "id": 154,
+      "question": "What is cyberbullying?",
+      "answer": "Using electronic communication to harass, threaten, or intimidate someone."
+    },
+    {
+      "id": 155,
+      "question": "What is a digital footprint?",
+      "answer": "The trail of data you create while using the internet."
+    },
+    {
+      "id": 156,
+      "question": "What's the purpose of a VPN?",
+      "answer": "To create a secure, encrypted connection over a less secure network, like the internet."
+    },
+    {
+      "id": 157,
+      "question": "What is incognito mode in a browser?",
+      "answer": "A private Browse mode that doesn't save your Browse history, cookies, or site data."
+    },
+    {
+      "id": 158,
+      "question": "What is data privacy?",
+      "answer": "The right of individuals to control the use and sharing of their personal information."
+    },
+    {
+      "id": 159,
+      "question": "What is ethical hacking?",
+      "answer": "Hacking with the goal of identifying weaknesses in a system to improve security."
+    },
+    {
+      "id": 160,
+      "question": "What is a payload in a cyberattack?",
+      "answer": "The part of the malware that performs the malicious action."
+    },
+    {
+      "id": 161,
+      "question": "What is a keylogger?",
+      "answer": "A type of spyware that records every keystroke a user makes."
+    },
+    {
+      "id": 162,
+      "question": "What's the purpose of a spam filter?",
+      "answer": "To identify and block unwanted emails."
+    },
+    {
+      "id": 163,
+      "question": "What's a firewall?",
+      "answer": "A system that prevents unauthorized access to or from a private network."
+    },
+    {
+      "id": 164,
+      "question": "What is antivirus software?",
+      "answer": "A program that detects and removes malicious software."
+    },
+    {
+      "id": 165,
+      "question": "What is spyware?",
+      "answer": "Malware that secretly gathers information about a person or organization."
+    },
+    {
+      "id": 166,
+      "question": "What is a Trojan?",
+      "answer": "A malicious program that appears to be a legitimate file or application."
+    },
+    {
+      "id": 167,
+      "question": "What's a phishing email?",
+      "answer": "A fraudulent email designed to trick the recipient into revealing personal information."
+    },
+    {
+      "id": 168,
+      "question": "What is a strong password?",
+      "answer": "A password that is difficult to guess because it combines letters, numbers, and symbols."
+    },
+    {
+      "id": 169,
+      "question": "What's the full form of USB?",
+      "answer": "Universal Serial Bus"
+    },
+    {
+      "id": 170,
+      "question": "What is a USB drive?",
+      "answer": "A small, portable storage device."
+    },
+    {
+      "id": 171,
+      "question": "What's the purpose of a power button?",
+      "answer": "To turn the computer on or off."
+    },
+    {
+      "id": 172,
+      "question": "What is a restart?",
+      "answer": "Shutting down and immediately booting up the computer again."
+    },
+    {
+      "id": 173,
+      "question": "What is standby mode?",
+      "answer": "A low-power mode where the computer remains on but consumes less energy."
+    },
+    {
+      "id": 174,
+      "question": "What's the purpose of a mouse?",
+      "answer": "To control the cursor on the screen."
+    },
+    {
+      "id": 175,
+      "question": "What's a scroll wheel?",
+      "answer": "A wheel on a mouse used to scroll through documents and web pages."
+    },
+    {
+      "id": 176,
+      "question": "What is a keyboard?",
+      "answer": "A device used to input text and characters."
+    },
+    {
+      "id": 177,
+      "question": "What are the F keys?",
+      "answer": "Function keys (F1 to F12), which perform specific actions."
+    },
+    {
+      "id": 178,
+      "question": "What's the purpose of the Ctrl key?",
+      "answer": "To be used in combination with other keys for shortcuts."
+    },
+    {
+      "id": 179,
+      "question": "What's the purpose of the Alt key?",
+      "answer": "To be used in combination with other keys for special functions."
+    },
+    {
+      "id": 180,
+      "question": "What's the Escape (Esc) key for?",
+      "answer": "To cancel an operation or exit a full-screen display."
+    },
+    {
+      "id": 181,
+      "question": "What's a print screen key?",
+      "answer": "A key that captures an image of the current screen."
+    },
+    {
+      "id": 182,
+      "question": "What is an LED?",
+      "answer": "Light Emitting Diode; a type of display technology."
+    },
+    {
+      "id": 183,
+      "question": "What is an LCD?",
+      "answer": "Liquid Crystal Display; a type of display technology."
+    },
+    {
+      "id": 184,
+      "question": "What is the difference between a laptop and a desktop computer?",
+      "answer": "A laptop is portable, while a desktop is not."
+    },
+    {
+      "id": 185,
+      "question": "What's the purpose of a computer case?",
+      "answer": "To house and protect the internal components of a computer."
+    },
+    {
+      "id": 186,
+      "question": "What is a system unit?",
+      "answer": "The main box of a desktop computer."
+    },
+    {
+      "id": 187,
+      "question": "What is software?",
+      "answer": "A set of instructions that tells the computer what to do."
+    },
+    {
+      "id": 188,
+      "question": "What is application software?",
+      "answer": "Software designed to perform a specific task for a user."
+    },
+    {
+      "id": 189,
+      "question": "What is system software?",
+      "answer": "Software that manages and controls the computer's hardware."
+    },
+    {
+      "id": 190,
+      "question": "What is an operating system?",
+      "answer": "The main system software that manages all the computer resources."
+    },
+    {
+      "id": 191,
+      "question": "What is a utility program?",
+      "answer": "Software that performs a specific task to manage a computer system."
+    },
+    {
+      "id": 192,
+      "question": "What is a compiler?",
+      "answer": "A program that translates source code into machine code."
+    },
+    {
+      "id": 193,
+      "question": "What is an interpreter?",
+      "answer": "A program that directly executes instructions written in a programming or scripting language."
+    },
+    {
+      "id": 194,
+      "question": "What is a programming language?",
+      "answer": "A set of instructions and rules used to write computer programs."
+    },
+    {
+      "id": 195,
+      "question": "What is a spreadsheet?",
+      "answer": "An electronic document in which data is arranged in the rows and columns of a grid."
+    },
+    {
+      "id": 196,
+      "question": "What is a word processor?",
+      "answer": "A software application used for producing, editing, and formatting documents."
+    },
+    {
+      "id": 197,
+      "question": "What is a presentation program?",
+      "answer": "Software used to create slide shows."
+    },
+    {
+      "id": 198,
+      "question": "What is a database management system (DBMS)?",
+      "answer": "Software used to create and manage databases."
+    },
+    {
+      "id": 199,
+      "question": "What is computer graphics?",
+      "answer": "The creation and manipulation of visual content using computers."
+    },
+    {
+      "id": 200,
+      "question": "What is a pixel?",
+      "answer": "The smallest element of a digital image."
+    },
+    {
+      "id": 201,
+      "question": "What is resolution?",
+      "answer": "The number of pixels displayed on a screen."
+    },
+    {
+      "id": 202,
+      "question": "What's the purpose of an inkjet printer?",
+      "answer": "To produce a physical copy of a document by spraying ink onto paper."
+    },
+    {
+      "id": 203,
+      "question": "What's the purpose of a laser printer?",
+      "answer": "To produce a physical copy of a document using a laser and toner."
+    },
+    {
+      "id": 204,
+      "question": "What's the difference between a scanner and a printer?",
+      "answer": "A scanner digitizes a physical document, while a printer creates a physical copy of a digital document."
+    },
+    {
+      "id": 205,
+      "question": "What is a keyboard shortcut?",
+      "answer": "A combination of keys that provides a quick way to perform a command."
+    },
+    {
+      "id": 206,
+      "question": "What's the shortcut to save as?",
+      "answer": "F12"
+    },
+    {
+      "id": 207,
+      "question": "What's the shortcut to open a new file?",
+      "answer": "Ctrl + N"
+    },
+    {
+      "id": 208,
+      "question": "What's the shortcut to close a window?",
+      "answer": "Alt + F4"
+    },
+    {
+      "id": 209,
+      "question": "What's the shortcut to switch between open windows?",
+      "answer": "Alt + Tab"
+    },
+    {
+      "id": 210,
+      "question": "What's the shortcut to refresh a page in a browser?",
+      "answer": "F5 or Ctrl + R"
+    },
+    {
+      "id": 211,
+      "question": "What's the shortcut to bold text?",
+      "answer": "Ctrl + B"
+    },
+    {
+      "id": 212,
+      "question": "What's the shortcut to italicize text?",
+      "answer": "Ctrl + I"
+    },
+    {
+      "id": 213,
+      "question": "What's the shortcut to underline text?",
+      "answer": "Ctrl + U"
+    },
+    {
+      "id": 214,
+      "question": "What's the shortcut to find text in a document?",
+      "answer": "Ctrl + F"
+    },
+    {
+      "id": 215,
+      "question": "What's the shortcut to print?",
+      "answer": "Ctrl + P"
+    },
+    {
+      "id": 216,
+      "question": "What is the full form of URL?",
+      "answer": "Uniform Resource Locator"
+    },
+    {
+      "id": 217,
+      "question": "What is a web browser?",
+      "answer": "A software application for retrieving, presenting, and traversing information resources on the World Wide Web."
+    },
+    {
+      "id": 218,
+      "question": "What is the main purpose of HTTP?",
+      "answer": "To define how messages are formatted and transmitted, and what actions web servers and browsers should take in response to various commands."
+    },
+    {
+      "id": 219,
+      "question": "What's the difference between HTTP and HTTPS?",
+      "answer": "HTTPS is the secure version of HTTP."
+    },
+    {
+      "id": 220,
+      "question": "What is a cookie?",
+      "answer": "A small file stored on a user's computer by a web browser."
+    },
+    {
+      "id": 221,
+      "question": "What is a session cookie?",
+      "answer": "A temporary cookie that is deleted when the user closes their browser."
+    },
+    {
+      "id": 222,
+      "question": "What is a persistent cookie?",
+      "answer": "A cookie that remains on the user's computer for a set period."
+    },
+    {
+      "id": 223,
+      "question": "What is internet caching?",
+      "answer": "The process of storing copies of web pages and other content in a temporary location."
+    },
+    {
+      "id": 224,
+      "question": "What is an IP address?",
+      "answer": "A numerical label assigned to a device connected to a computer network."
+    },
+    {
+      "id": 225,
+      "question": "What is a domain name?",
+      "answer": "A human-readable name that identifies a website."
+    },
+    {
+      "id": 226,
+      "question": "What is DNS?",
+      "answer": "Domain Name System; it translates domain names into IP addresses."
+    },
+    {
+      "id": 227,
+      "question": "What is a web server?",
+      "answer": "A computer that delivers web pages to users' computers."
+    },
+    {
+      "id": 228,
+      "question": "What is a web page?",
+      "answer": "A document on the World Wide Web."
+    },
+    {
+      "id": 229,
+      "question": "What is a website?",
+      "answer": "A collection of related web pages."
+    },
+    {
+      "id": 230,
+      "question": "What is a web portal?",
+      "answer": "A website that serves as a single point of access to various information."
+    },
+    {
+      "id": 231,
+      "question": "What is e-commerce?",
+      "answer": "The buying and selling of goods and services over the internet."
+    },
+    {
+      "id": 232,
+      "question": "What is online banking?",
+      "answer": "Conducting financial transactions over the internet."
+    },
+    {
+      "id": 233,
+      "question": "What is social media?",
+      "answer": "Websites and applications that enable users to create and share content or participate in social networking."
+    },
+    {
+      "id": 234,
+      "question": "What is a blog?",
+      "answer": "A regularly updated website or web page, typically one run by an individual or small group."
+    },
+    {
+      "id": 235,
+      "question": "What is a podcast?",
+      "answer": "A digital audio file made available on the internet for downloading to a computer or mobile device."
+    },
+    {
+      "id": 236,
+      "question": "What is a CPU?",
+      "answer": "The Central Processing Unit, the main component of a computer."
+    },
+    {
+      "id": 237,
+      "question": "What is RAM?",
+      "answer": "Random Access Memory; temporary storage for data and programs."
+    },
+    {
+      "id": 238,
+      "question": "What is ROM?",
+      "answer": "Read-Only Memory; permanent memory that stores essential startup instructions."
+    },
+    {
+      "id": 239,
+      "question": "What is a hard drive?",
+      "answer": "A data storage device used to store and retrieve digital information using rapidly rotating disks."
+    },
+    {
+      "id": 240,
+      "question": "What is a motherboard?",
+      "answer": "The main circuit board of a computer."
+    },
+    {
+      "id": 241,
+      "question": "What is a graphics card?",
+      "answer": "A specialized card that processes and renders images."
+    },
+    {
+      "id": 242,
+      "question": "What is a sound card?",
+      "answer": "An internal circuit board that facilitates the input and output of audio signals."
+    },
+    {
+      "id": 243,
+      "question": "What is a power supply unit (PSU)?",
+      "answer": "A component that supplies power to the computer."
+    },
+    {
+      "id": 244,
+      "question": "What is a case?",
+      "answer": "The enclosure that contains most of the computer's components."
+    },
+    {
+      "id": 245,
+      "question": "What is a CD-ROM?",
+      "answer": "A Compact Disc Read-Only Memory, a type of optical disc."
+    },
+    {
+      "id": 246,
+      "question": "What is a DVD-ROM?",
+      "answer": "A Digital Versatile Disc Read-Only Memory, a higher-capacity optical disc."
+    },
+    {
+      "id": 247,
+      "question": "What is a Blu-ray Disc?",
+      "answer": "A digital optical disc data storage format, the successor to the DVD."
+    },
+    {
+      "id": 248,
+      "question": "What is a flash drive?",
+      "answer": "A small, portable storage device that uses flash memory."
+    },
+    {
+      "id": 249,
+      "question": "What is a SD card?",
+      "answer": "A Secure Digital card, a tiny memory card used in portable devices."
+    },
+    {
+      "id": 250,
+      "question": "What is a webcam?",
+      "answer": "A video camera that feeds images in real time to a computer network."
+    },
+    {
+      "id": 251,
+      "question": "What is a microphone?",
+      "answer": "A device that converts sound waves into electrical signals."
+    },
+    {
+      "id": 252,
+      "question": "What are speakers?",
+      "answer": "Devices that convert electrical signals into sound waves."
+    },
+    {
+      "id": 253,
+      "question": "What is a headset?",
+      "answer": "A device that combines a headphone and a microphone."
+    },
+    {
+      "id": 254,
+      "question": "What is a printer?",
+      "answer": "A device that produces a hard copy of a document."
+    },
+    {
+      "id": 255,
+      "question": "What is a scanner?",
+      "answer": "A device that captures images from physical documents and converts them into digital images."
+    },
+    {
+      "id": 256,
+      "question": "What is a mouse?",
+      "answer": "A handheld pointing device."
+    },
+    {
+      "id": 257,
+      "question": "What is a trackpad?",
+      "answer": "A touch-sensitive pad used in laptops to control the cursor."
+    },
+    {
+      "id": 258,
+      "question": "What is a keyboard?",
+      "answer": "A device for typing text and entering commands."
+    },
+    {
+      "id": 259,
+      "question": "What is the difference between a mechanical keyboard and a membrane keyboard?",
+      "answer": "Mechanical keyboards have a physical switch under each key, while membrane keyboards have a rubber dome."
+    },
+    {
+      "id": 260,
+      "question": "What is a computer monitor?",
+      "answer": "An output device that displays images and text."
+    },
+    {
+      "id": 261,
+      "question": "What is a display port?",
+      "answer": "A digital display interface."
+    },
+    {
+      "id": 262,
+      "question": "What is an HDMI port?",
+      "answer": "High-Definition Multimedia Interface; a port for transmitting audio and video."
+    },
+    {
+      "id": 263,
+      "question": "What is a VGA port?",
+      "answer": "Video Graphics Array; an older port for video transmission."
+    },
+    {
+      "id": 264,
+      "question": "What is a USB port?",
+      "answer": "A Universal Serial Bus port for connecting various peripherals."
+    },
+    {
+      "id": 265,
+      "question": "What is a Ethernet port?",
+      "answer": "A port for connecting a device to a network with a wired cable."
+    },
+    {
+      "id": 266,
+      "question": "What is Microsoft Office?",
+      "answer": "A suite of productivity software."
+    },
+    {
+      "id": 267,
+      "question": "What is Microsoft Word?",
+      "answer": "A word processor."
+    },
+    {
+      "id": 268,
+      "question": "What is Microsoft Excel?",
+      "answer": "A spreadsheet program."
+    },
+    {
+      "id": 269,
+      "question": "What is Microsoft PowerPoint?",
+      "answer": "A presentation program."
+    },
+    {
+      "id": 270,
+      "question": "What is Microsoft Outlook?",
+      "answer": "An email client."
+    },
+    {
+      "id": 271,
+      "question": "What is a cell in Excel?",
+      "answer": "A single box in a spreadsheet."
+    },
+    {
+      "id": 272,
+      "question": "What is a row in Excel?",
+      "answer": "A horizontal set of cells."
+    },
+    {
+      "id": 273,
+      "question": "What is a column in Excel?",
+      "answer": "A vertical set of cells."
+    },
+    {
+      "id": 274,
+      "question": "What is a formula in Excel?",
+      "answer": "An expression that performs a calculation."
+    },
+    {
+      "id": 275,
+      "question": "What is a macro in Excel?",
+      "answer": "A series of commands and functions that are stored and can be run to automate tasks."
+    },
+    {
+      "id": 276,
+      "question": "What is a slide in PowerPoint?",
+      "answer": "A single page of a presentation."
+    },
+    {
+      "id": 277,
+      "question": "What is a template in PowerPoint?",
+      "answer": "A pre-designed slide or set of slides."
+    },
+    {
+      "id": 278,
+      "question": "What is a slide master?",
+      "answer": "A main slide that controls the layout, colors, and fonts of all other slides in a presentation."
+    },
+    {
+      "id": 279,
+      "question": "What is an email?",
+      "answer": "Electronic mail."
+    },
+    {
+      "id": 280,
+      "question": "What is an email address?",
+      "answer": "A unique identifier for an email account."
+    },
+    {
+      "id": 281,
+      "question": "What is the @ symbol in an email address for?",
+      "answer": "It separates the username from the domain name."
+    },
+    {
+      "id": 282,
+      "question": "What is a BCC?",
+      "answer": "Blind Carbon Copy; recipients cannot see other BCC recipients."
+    },
+    {
+      "id": 283,
+      "question": "What is a CC?",
+      "answer": "Carbon Copy; recipients can see who else received the email."
+    },
+    {
+      "id": 284,
+      "question": "What is a spam email?",
+      "answer": "An unsolicited bulk email."
+    },
+    {
+      "id": 285,
+      "question": "What is antivirus software?",
+      "answer": "Software that protects a computer from malicious programs."
+    },
+    {
+      "id": 286,
+      "question": "What is Windows Defender?",
+      "answer": "Microsoft's built-in antivirus and security solution."
+    },
+    {
+      "id": 287,
+      "question": "What is malware?",
+      "answer": "Malicious software."
+    },
+    {
+      "id": 288,
+      "question": "What is a virus?",
+      "answer": "A type of malware that attaches to legitimate files."
+    },
+    {
+      "id": 289,
+      "question": "What is a worm?",
+      "answer": "A type of malware that can spread on its own without user interaction."
+    },
+    {
+      "id": 290,
+      "question": "What is a Trojan horse?",
+      "answer": "A type of malware that appears to be a useful program."
+    },
+    {
+      "id": 291,
+      "question": "What is phishing?",
+      "answer": "A type of cybercrime in which a target is contacted by email, telephone or text message by someone posing as a legitimate institution to lure individuals into providing sensitive data."
+    },
+    {
+      "id": 292,
+      "question": "What is spyware?",
+      "answer": "Malware that secretly gathers information."
+    },
+    {
+      "id": 293,
+      "question": "What is a keylogger?",
+      "answer": "A type of spyware that records keystrokes."
+    },
+    {
+      "id": 294,
+      "question": "What is ransomware?",
+      "answer": "Malware that encrypts files and demands a ransom."
+    },
+    {
+      "id": 295,
+      "question": "What is a firewall?",
+      "answer": "A network security system that monitors and controls network traffic."
+    },
+    {
+      "id": 296,
+      "question": "What is a password manager?",
+      "answer": "A tool that helps users create and store strong passwords."
+    },
+    {
+      "id": 297,
+      "question": "What is two-factor authentication (2FA)?",
+      "answer": "A security process in which the user provides two different authentication factors."
+    },
+    {
+      "id": 298,
+      "question": "What is encryption?",
+      "answer": "The process of converting information into a secret code."
+    },
+    {
+      "id": 299,
+      "question": "What is a VPN?",
+      "answer": "A Virtual Private Network; it creates a secure connection over the internet."
+    },
+    {
+      "id": 300,
+      "question": "What is a digital footprint?",
+      "answer": "The unique trail of data you leave online."
+    },
+    {
+      "id": 301,
+      "question": "What is a backup?",
+      "answer": "A copy of data that can be used to restore the original."
+    },
+    {
+      "id": 302,
+      "question": "What is ethical hacking?",
+      "answer": "Hacking a computer system with the owner's permission to test its security."
+    },
+    {
+      "id": 303,
+      "question": "Who invented the first mechanical computer?",
+      "answer": "Charles Babbage"
+    },
+    {
+      "id": 304,
+      "question": "Who is considered the mother of computer programming?",
+      "answer": "Ada Lovelace"
+    },
+    {
+      "id": 305,
+      "question": "What was the first electronic general-purpose computer?",
+      "answer": "ENIAC"
+    },
+    {
+      "id": 306,
+      "question": "What was the first commercially successful personal computer?",
+      "answer": "Apple II"
+    },
+    {
+      "id": 307,
+      "question": "Who co-founded Apple Computers?",
+      "answer": "Steve Jobs and Steve Wozniak"
+    },
+    {
+      "id": 308,
+      "question": "Who co-founded Microsoft?",
+      "answer": "Bill Gates and Paul Allen"
+    },
+    {
+      "id": 309,
+      "question": "What is a mainframe computer?",
+      "answer": "A large, powerful computer used by large organizations."
+    },
+    {
+      "id": 310,
+      "question": "What is a supercomputer?",
+      "answer": "A computer with a high level of performance compared to a general-purpose computer."
+    },
+    {
+      "id": 311,
+      "question": "What is a microcomputer?",
+      "answer": "A small, relatively inexpensive computer."
+    },
+    {
+      "id": 312,
+      "question": "What is a minicomputer?",
+      "answer": "A class of smaller computers that became popular in the 1960s and 1970s."
+    },
+    {
+      "id": 313,
+      "question": "What is an embedded system?",
+      "answer": "A computer system with a dedicated function within a larger mechanical or electronic system."
+    },
+    {
+      "id": 314,
+      "question": "What are the main components of a computer?",
+      "answer": "CPU, RAM, Motherboard, Storage, Power Supply, GPU."
+    },
+    {
+      "id": 315,
+      "question": "What is the purpose of the CPU?",
+      "answer": "To perform all the calculations and instructions."
+    },
+    {
+      "id": 316,
+      "question": "What is the purpose of RAM?",
+      "answer": "To temporarily store data that the CPU needs to access quickly."
+    },
+    {
+      "id": 317,
+      "question": "What is the purpose of the motherboard?",
+      "answer": "To connect all the components of the computer."
+    },
+    {
+      "id": 318,
+      "question": "What is the purpose of the hard drive?",
+      "answer": "To permanently store data."
+    },
+    {
+      "id": 319,
+      "question": "What is the purpose of the power supply unit?",
+      "answer": "To convert AC power from the wall into DC power for the computer."
+    },
+    {
+      "id": 320,
+      "question": "What is a video card?",
+      "answer": "A component that processes images and sends them to the display."
+    },
+    {
+      "id": 321,
+      "question": "What is an operating system (OS)?",
+      "answer": "The software that manages all of the hardware and software on a computer."
+    },
+    {
+      "id": 322,
+      "question": "What is a GUI?",
+      "answer": "A graphical user interface, which uses icons and visual indicators."
+    },
+    {
+      "id": 323,
+      "question": "What is a CLI?",
+      "answer": "A command-line interface, which uses text-based commands."
+    },
+    {
+      "id": 324,
+      "question": "What is a network?",
+      "answer": "A group of connected computers."
+    },
+    {
+      "id": 325,
+      "question": "What is a LAN?",
+      "answer": "Local Area Network; a network covering a small area."
+    },
+    {
+      "id": 326,
+      "question": "What is a WAN?",
+      "answer": "Wide Area Network; a network covering a large area."
+    },
+    {
+      "id": 327,
+      "question": "What is the internet?",
+      "answer": "A global network of interconnected computers."
+    },
+    {
+      "id": 328,
+      "question": "What is an intranet?",
+      "answer": "A private network that is used within an organization."
+    },
+    {
+      "id": 329,
+      "question": "What is a server?",
+      "answer": "A computer that provides services to other computers."
+    },
+    {
+      "id": 330,
+      "question": "What is a client?",
+      "answer": "A computer that requests services from a server."
+    },
+    {
+      "id": 331,
+      "question": "What is a router?",
+      "answer": "A device that directs data packets between networks."
+    },
+    {
+      "id": 332,
+      "question": "What is a switch?",
+      "answer": "A device that connects devices on a local network."
+    },
+    {
+      "id": 333,
+      "question": "What is an IP address?",
+      "answer": "A unique address for a device on a network."
+    },
+    {
+      "id": 334,
+      "question": "What is a modem?",
+      "answer": "A device that modulates and demodulates signals."
+    },
+    {
+      "id": 335,
+      "question": "What is Wi-Fi?",
+      "answer": "A technology that allows devices to connect to a network wirelessly."
+    },
+    {
+      "id": 336,
+      "question": "What is Bluetooth?",
+      "answer": "A wireless technology for short-range communication."
+    },
+    {
+      "id": 337,
+      "question": "What is cloud computing?",
+      "answer": "Using remote servers to store and manage data."
+    },
+    {
+      "id": 338,
+      "question": "What is SaaS?",
+      "answer": "Software as a Service; a software delivery model."
+    },
+    {
+      "id": 339,
+      "question": "What is PaaS?",
+      "answer": "Platform as a Service; a cloud computing model."
+    },
+    {
+      "id": 340,
+      "question": "What is IaaS?",
+      "answer": "Infrastructure as a Service; a cloud computing model."
+    },
+    {
+      "id": 341,
+      "question": "What is artificial intelligence (AI)?",
+      "answer": "The simulation of human intelligence by machines."
+    },
+    {
+      "id": 342,
+      "question": "What is machine learning (ML)?",
+      "answer": "A subfield of AI that enables systems to learn from data."
+    },
+    {
+      "id": 343,
+      "question": "What is deep learning?",
+      "answer": "A subfield of ML that uses neural networks."
+    },
+    {
+      "id": 344,
+      "question": "What is natural language processing (NLP)?",
+      "answer": "The field of AI that deals with human language."
+    },
+    {
+      "id": 345,
+      "question": "What is a neural network?",
+      "answer": "A computer system inspired by the human brain."
+    },
+    {
+      "id": 346,
+      "question": "What is a chatbot?",
+      "answer": "An AI program that can converse with users."
+    },
+    {
+      "id": 347,
+      "question": "What is virtual reality (VR)?",
+      "answer": "A simulated experience that can be similar to or completely different from the real world."
+    },
+    {
+      "id": 348,
+      "question": "What is augmented reality (AR)?",
+      "answer": "An interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information."
+    },
+    {
+      "id": 349,
+      "question": "What is a computer virus?",
+      "answer": "A type of malware that spreads by attaching itself to a program."
+    },
+    {
+      "id": 350,
+      "question": "What is a computer worm?",
+      "answer": "A type of malware that spreads independently over a network."
+    },
+    {
+      "id": 351,
+      "question": "What is a Trojan horse?",
+      "answer": "A type of malware that tricks users into installing it."
+    },
+    {
+      "id": 352,
+      "question": "What is phishing?",
+      "answer": "A type of cyber attack that uses fraudulent messages to trick users."
+    },
+    {
+      "id": 353,
+      "question": "What is ransomware?",
+      "answer": "Malware that encrypts files and demands a ransom."
+    },
+    {
+      "id": 354,
+      "question": "What is spyware?",
+      "answer": "Malware that secretly gathers information."
+    },
+    {
+      "id": 355,
+      "question": "What is a botnet?",
+      "answer": "A network of infected computers controlled by a hacker."
+    },
+    {
+      "id": 356,
+      "question": "What is a firewall?",
+      "answer": "A network security system."
+    },
+    {
+      "id": 357,
+      "question": "What is antivirus software?",
+      "answer": "Software that protects against viruses."
+    },
+    {
+      "id": 358,
+      "question": "What is Windows Defender?",
+      "answer": "Microsoft's built-in antivirus and anti-malware software."
+    },
+    {
+      "id": 359,
+      "question": "What is password security?",
+      "answer": "The practice of protecting your passwords."
+    },
+    {
+      "id": 360,
+      "question": "What is a strong password?",
+      "answer": "A password that is long and complex."
+    },
+    {
+      "id": 361,
+      "question": "What is two-factor authentication (2FA)?",
+      "answer": "A security measure that requires two different forms of verification."
+    },
+    {
+      "id": 362,
+      "question": "What is privacy protection?",
+      "answer": "The practice of safeguarding personal data."
+    },
+    {
+      "id": 363,
+      "question": "What is a VPN?",
+      "answer": "A Virtual Private Network."
+    },
+    {
+      "id": 364,
+      "question": "What is incognito mode?",
+      "answer": "A private Browse feature in browsers."
+    },
+    {
+      "id": 365,
+      "question": "What is a cookie?",
+      "answer": "A small text file a website stores on your computer."
+    },
+    {
+      "id": 366,
+      "question": "What is digital literacy?",
+      "answer": "The ability to use computers and the internet effectively."
+    },
+    {
+      "id": 367,
+      "question": "What is cyberbullying?",
+      "answer": "Bullying using electronic communication."
+    },
+    {
+      "id": 368,
+      "question": "What is a data breach?",
+      "answer": "The exposure of confidential data."
+    },
+    {
+      "id": 369,
+      "question": "What is a data backup?",
+      "answer": "A copy of data stored in case of data loss."
+    },
+    {
+      "id": 370,
+      "question": "What is ethical hacking?",
+      "answer": "Hacking with permission to improve security."
+    },
+    {
+      "id": 371,
+      "question": "What is an email client?",
+      "answer": "A program used to manage email."
+    },
+    {
+      "id": 372,
+      "question": "What is an email address?",
+      "answer": "A unique identifier for an email account."
+    },
+    {
+      "id": 373,
+      "question": "What is CC?",
+      "answer": "Carbon Copy."
+    },
+    {
+      "id": 374,
+      "question": "What is BCC?",
+      "answer": "Blind Carbon Copy."
+    },
+    {
+      "id": 375,
+      "question": "What is spam?",
+      "answer": "Unsolicited email."
+    },
+    {
+      "id": 376,
+      "question": "What is an attachment?",
+      "answer": "A file sent with an email."
+    },
+    {
+      "id": 377,
+      "question": "What is the subject line of an email?",
+      "answer": "A brief description of the email's content."
+    },
+    {
+      "id": 378,
+      "question": "What is a signature in an email?",
+      "answer": "A block of text at the end of an email."
+    },
+    {
+      "id": 379,
+      "question": "What is a computer network?",
+      "answer": "A group of computers linked together."
+    },
+    {
+      "id": 380,
+      "question": "What is a peer-to-peer (P2P) network?",
+      "answer": "A network where computers share resources directly with each other."
+    },
+    {
+      "id": 381,
+      "question": "What is a client-server network?",
+      "answer": "A network with a central server that provides services to clients."
+    },
+    {
+      "id": 382,
+      "question": "What is the internet?",
+      "answer": "The global public network."
+    },
+    {
+      "id": 383,
+      "question": "What is a web browser?",
+      "answer": "A program for accessing websites."
+    },
+    {
+      "id": 384,
+      "question": "What is a search engine?",
+      "answer": "A program that finds information on the internet."
+    },
+    {
+      "id": 385,
+      "question": "What is an URL?",
+      "answer": "A Uniform Resource Locator, an address for a web page."
+    },
+    {
+      "id": 386,
+      "question": "What is HTTP?",
+      "answer": "Hypertext Transfer Protocol."
+    },
+    {
+      "id": 387,
+      "question": "What is HTTPS?",
+      "answer": "Hypertext Transfer Protocol Secure."
+    },
+    {
+      "id": 388,
+      "question": "What is a cookie?",
+      "answer": "A small data file stored by a web browser."
+    },
+    {
+      "id": 389,
+      "question": "What is caching?",
+      "answer": "Storing temporary data to speed up access."
+    },
+    {
+      "id": 390,
+      "question": "What is cloud storage?",
+      "answer": "Storing data on remote servers."
+    },
+    {
+      "id": 391,
+      "question": "What is HTML?",
+      "answer": "Hypertext Markup Language."
+    },
+    {
+      "id": 392,
+      "question": "What is CSS?",
+      "answer": "Cascading Style Sheets."
+    },
+    {
+      "id": 393,
+      "question": "What is JavaScript?",
+      "answer": "A programming language for web pages."
+    },
+    {
+      "id": 394,
+      "question": "What is a web server?",
+      "answer": "A computer that hosts websites."
+    },
+    {
+      "id": 395,
+      "question": "What is web hosting?",
+      "answer": "The service of providing web servers."
+    },
+    {
+      "id": 396,
+      "question": "What is e-commerce?",
+      "answer": "Electronic commerce."
+    },
+    {
+      "id": 397,
+      "question": "What is online banking?",
+      "answer": "Conducting banking transactions over the internet."
+    },
+    {
+      "id": 398,
+      "question": "What is social media?",
+      "answer": "Websites and apps for social networking."
+    },
+    {
+      "id": 399,
+      "question": "What is a blog?",
+      "answer": "An online journal."
+    },
+    {
+      "id": 400,
+      "question": "What is a podcast?",
+      "answer": "An audio program available online."
+    },
+    {
+      "id": 401,
+      "question": "What is a hard drive?",
+      "answer": "A storage device with spinning platters."
+    },
+    {
+      "id": 402,
+      "question": "What is an SSD?",
+      "answer": "A Solid State Drive, a newer, faster type of storage."
+    },
+    {
+      "id": 403,
+      "question": "What is RAM?",
+      "answer": "Random Access Memory."
+    },
+    {
+      "id": 404,
+      "question": "What is ROM?",
+      "answer": "Read-Only Memory."
+    },
+    {
+      "id": 405,
+      "question": "What is a motherboard?",
+      "answer": "The main circuit board."
+    },
+    {
+      "id": 406,
+      "question": "What is the CPU?",
+      "answer": "The Central Processing Unit, the computer's brain."
+    },
+    {
+      "id": 407,
+      "question": "What is a power supply unit (PSU)?",
+      "answer": "A component that provides power."
+    },
+    {
+      "id": 408,
+      "question": "What is a graphics card (GPU)?",
+      "answer": "A component that handles images."
+    },
+    {
+      "id": 409,
+      "question": "What is a sound card?",
+      "answer": "A component that handles audio."
+    },
+    {
+      "id": 410,
+      "question": "What is a printer?",
+      "answer": "A device for creating hard copies."
+    },
+    {
+      "id": 411,
+      "question": "What is a scanner?",
+      "answer": "A device for creating digital copies of physical documents."
+    },
+    {
+      "id": 412,
+      "question": "What is a mouse?",
+      "answer": "A pointing device."
+    },
+    {
+      "id": 413,
+      "question": "What is a keyboard?",
+      "answer": "A text input device."
+    },
+    {
+      "id": 414,
+      "question": "What is a monitor?",
+      "answer": "A display screen."
+    },
+    {
+      "id": 415,
+      "question": "What is an operating system?",
+      "answer": "The main software that manages the computer."
+    },
+    {
+      "id": 416,
+      "question": "What is application software?",
+      "answer": "Software for specific tasks."
+    },
+    {
+      "id": 417,
+      "question": "What is system software?",
+      "answer": "Software that runs the hardware."
+    },
+    {
+      "id": 418,
+      "question": "What is a driver?",
+      "answer": "Software that allows the OS to communicate with hardware."
+    },
+    {
+      "id": 419,
+      "question": "What is a utility program?",
+      "answer": "Software that helps manage the computer."
+    },
+    {
+      "id": 420,
+      "question": "What is a compiler?",
+      "answer": "A program that translates code."
+    },
+    {
+      "id": 421,
+      "question": "What is an interpreter?",
+      "answer": "A program that executes code line by line."
+    },
+    {
+      "id": 422,
+      "question": "What is a bug in a program?",
+      "answer": "An error in the code."
+    },
+    {
+      "id": 423,
+      "question": "What is debugging?",
+      "answer": "The process of finding and fixing bugs."
+    },
+    {
+      "id": 424,
+      "question": "What is computer programming?",
+      "answer": "The process of writing instructions for a computer."
+    },
+    {
+      "id": 425,
+      "question": "What is a database?",
+      "answer": "An organized collection of data."
+    },
+    {
+      "id": 426,
+      "question": "What is data mining?",
+      "answer": "The process of finding patterns in data."
+    },
+    {
+      "id": 427,
+      "question": "What is big data?",
+      "answer": "Very large data sets."
+    },
+    {
+      "id": 428,
+      "question": "What is cloud computing?",
+      "answer": "Using remote servers over the internet."
+    },
+    {
+      "id": 429,
+      "question": "What is AI?",
+      "answer": "Artificial Intelligence."
+    },
+    {
+      "id": 430,
+      "question": "What is machine learning?",
+      "answer": "A type of AI that learns from data."
+    },
+    {
+      "id": 431,
+      "question": "What is ethical hacking?",
+      "answer": "Hacking with permission."
+    },
+    {
+      "id": 432,
+      "question": "What is a firewall?",
+      "answer": "A security system."
+    },
+    {
+      "id": 433,
+      "question": "What is antivirus software?",
+      "answer": "Software that protects against viruses."
+    },
+    {
+      "id": 434,
+      "question": "What is malware?",
+      "answer": "Malicious software."
+    },
+    {
+      "id": 435,
+      "question": "What is a virus?",
+      "answer": "A self-replicating program."
+    },
+    {
+      "id": 436,
+      "question": "What is a worm?",
+      "answer": "A self-spreading program."
+    },
+    {
+      "id": 437,
+      "question": "What is a Trojan horse?",
+      "answer": "A program that seems harmless but is not."
+    },
+    {
+      "id": 438,
+      "question": "What is phishing?",
+      "answer": "A type of scam to get personal information."
+    },
+    {
+      "id": 439,
+      "question": "What is ransomware?",
+      "answer": "Malware that holds files hostage."
+    },
+    {
+      "id": 440,
+      "question": "What is a password manager?",
+      "answer": "A tool for managing passwords."
+    },
+    {
+      "id": 441,
+      "question": "What is two-factor authentication (2FA)?",
+      "answer": "A security method that requires two forms of verification."
+    },
+    {
+      "id": 442,
+      "question": "What is encryption?",
+      "answer": "The process of scrambling data."
+    },
+    {
+      "id": 443,
+      "question": "What is a VPN?",
+      "answer": "A Virtual Private Network."
+    },
+    {
+      "id": 444,
+      "question": "What is a digital footprint?",
+      "answer": "The data you leave behind online."
+    },
+    {
+      "id": 445,
+      "question": "What is an email?",
+      "answer": "Electronic mail."
+    },
+    {
+      "id": 446,
+      "question": "What is a spam filter?",
+      "answer": "A tool that blocks spam emails."
+    },
+    {
+      "id": 447,
+      "question": "What is an attachment?",
+      "answer": "A file sent with an email."
+    },
+    {
+      "id": 448,
+      "question": "What is a network?",
+      "answer": "A group of connected computers."
+    },
+    {
+      "id": 449,
+      "question": "What is the internet?",
+      "answer": "The global network."
+    },
+    {
+      "id": 450,
+      "question": "What is a browser?",
+      "answer": "A program for viewing websites."
+    },
+    {
+      "id": 451,
+      "question": "What is a URL?",
+      "answer": "A web address."
+    },
+    {
+      "id": 452,
+      "question": "What is HTTP?",
+      "answer": "The protocol for web communication."
+    },
+    {
+      "id": 453,
+      "question": "What is HTTPS?",
+      "answer": "The secure version of HTTP."
+    },
+    {
+      "id": 454,
+      "question": "What is a website?",
+      "answer": "A collection of web pages."
+    },
+    {
+      "id": 455,
+      "question": "What is a web server?",
+      "answer": "A computer that hosts websites."
+    },
+    {
+      "id": 456,
+      "question": "What is a cookie?",
+      "answer": "A small data file from a website."
+    },
+    {
+      "id": 457,
+      "question": "What is HTML?",
+      "answer": "The language for creating web pages."
+    },
+    {
+      "id": 458,
+      "question": "What is CSS?",
+      "answer": "The language for styling web pages."
+    },
+    {
+      "id": 459,
+      "question": "What is JavaScript?",
+      "answer": "The language for making web pages interactive."
+    },
+    {
+      "id": 460,
+      "question": "What is a LAN?",
+      "answer": "A Local Area Network."
+    },
+    {
+      "id": 461,
+      "question": "What is a WAN?",
+      "answer": "A Wide Area Network."
+    },
+    {
+      "id": 462,
+      "question": "What is a router?",
+      "answer": "A device that connects networks."
+    },
+    {
+      "id": 463,
+      "question": "What is a modem?",
+      "answer": "A device that connects a computer to the internet."
+    },
+    {
+      "id": 464,
+      "question": "What is Wi-Fi?",
+      "answer": "Wireless internet."
+    },
+    {
+      "id": 465,
+      "question": "What is a hotspot?",
+      "answer": "A physical location where Wi-Fi is available."
+    },
+    {
+      "id": 466,
+      "question": "What is cloud storage?",
+      "answer": "Storing data online."
+    },
+    {
+      "id": 467,
+      "question": "What is AI?",
+      "answer": "Artificial Intelligence."
+    },
+    {
+      "id": 468,
+      "question": "What is machine learning?",
+      "answer": "A method for AI to learn."
+    },
+    {
+      "id": 469,
+      "question": "What is deep learning?",
+      "answer": "A type of machine learning."
+    },
+    {
+      "id": 470,
+      "question": "What is a chatbot?",
+      "answer": "An AI program for conversations."
+    },
+    {
+      "id": 471,
+      "question": "What is virtual reality (VR)?",
+      "answer": "A simulated environment."
+    },
+    {
+      "id": 472,
+      "question": "What is augmented reality (AR)?",
+      "answer": "Adding computer-generated elements to the real world."
+    },
+    {
+      "id": 473,
+      "question": "What is a virus?",
+      "answer": "A malicious program."
+    },
+    {
+      "id": 474,
+      "question": "What is phishing?",
+      "answer": "An online scam."
+    },
+    {
+      "id": 475,
+      "question": "What is ransomware?",
+      "answer": "Malware that demands money."
+    },
+    {
+      "id": 476,
+      "question": "What is a firewall?",
+      "answer": "A security system."
+    },
+    {
+      "id": 477,
+      "question": "What is antivirus software?",
+      "answer": "Software to fight viruses."
+    },
+    {
+      "id": 478,
+      "question": "What is a password manager?",
+      "answer": "A tool for password security."
+    },
+    {
+      "id": 479,
+      "question": "What is two-factor authentication (2FA)?",
+      "answer": "A security method with two steps."
+    },
+    {
+      "id": 480,
+      "question": "What is encryption?",
+      "answer": "The process of encoding data."
+    },
+    {
+      "id": 481,
+      "question": "What is a VPN?",
+      "answer": "A Virtual Private Network."
+    },
+    {
+      "id": 482,
+      "question": "What is a digital footprint?",
+      "answer": "The trail of your online activity."
+    },
+    {
+      "id": 483,
+      "question": "What is ethical hacking?",
+      "answer": "Authorized hacking."
+    },
+    {
+      "id": 484,
+      "question": "What is an email?",
+      "answer": "Electronic mail."
+    },
+    {
+      "id": 485,
+      "question": "What is a spam filter?",
+      "answer": "A tool for filtering unwanted emails."
+    },
+    {
+      "id": 486,
+      "question": "What is an attachment?",
+      "answer": "A file sent with an email."
+    },
+    {
+      "id": 487,
+      "question": "What is a network?",
+      "answer": "A system of connected computers."
+    },
+    {
+      "id": 488,
+      "question": "What is the internet?",
+      "answer": "The worldwide public network."
+    },
+    {
+      "id": 489,
+      "question": "What is a browser?",
+      "answer": "A program for the internet."
+    },
+    {
+      "id": 490,
+      "question": "What is a URL?",
+      "answer": "A web address."
+    },
+    {
+      "id": 491,
+      "question": "What is HTTP?",
+      "answer": "The standard protocol for web pages."
+    },
+    {
+      "id": 492,
+      "question": "What is HTTPS?",
+      "answer": "The secure version of HTTP."
+    },
+    {
+      "id": 493,
+      "question": "What is a website?",
+      "answer": "A group of related web pages."
+    },
+    {
+      "id": 494,
+      "question": "What is a web server?",
+      "answer": "A computer that hosts websites."
+    },
+    {
+      "id": 495,
+      "question": "What is HTML?",
+      "answer": "The code for web pages."
+    },
+    {
+      "id": 496,
+      "question": "What is CSS?",
+      "answer": "The code for styling web pages."
+    },
+    {
+      "id": 497,
+      "question": "What is JavaScript?",
+      "answer": "The code for interactive web pages."
+    },
+    {
+      "id": 498,
+      "question": "What is cloud computing?",
+      "answer": "Using the internet to access computing services."
+    },
+    {
+      "id": 499,
+      "question": "What is AI?",
+      "answer": "Artificial Intelligence."
+    },
+    {
+      "id": 500,
+      "question": "What is a firewall?",
+      "answer": "A system that protects a network."
+    }
+  ]
+}
